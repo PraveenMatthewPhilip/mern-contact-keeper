@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongodb+srv://react123:react123@cluster0-mtwwn.mongodb.net/test?retryWrites=true&w=majority"
+}
